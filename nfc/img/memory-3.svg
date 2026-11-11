@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600"><rect width="100%" height="100%" fill="#123A52"/><rect x="90" y="360" width="620" height="170" rx="30" fill="#fff" stroke="#E4E8F2" stroke-width="4"/><rect x="110" y="300" width="200" height="90" rx="40" fill="#E7F7FF"/><path d="M90 430 h620" stroke="#B0E5FF" stroke-width="6"/><path d="M620 90 a46 46 0 1 0 40 70 a36 36 0 1 1 -40 -70z" fill="#FFE7A8"/><g fill="#fff"><circle cx="200" cy="120" r="3"/><circle cx="420" cy="80" r="2.5"/><circle cx="520" cy="190" r="2"/><circle cx="300" cy="200" r="2"/></g><g transform="translate(470 300) scale(0.9)">
+  <ellipse cx="0" cy="104" rx="70" ry="10" fill="#123A52" opacity=".08"/>
+  <ellipse cx="-34" cy="86" rx="22" ry="16" fill="#FBF6EE" stroke="#E6DDCF" stroke-width="2"/>
+  <ellipse cx="34" cy="86" rx="22" ry="16" fill="#FBF6EE" stroke="#E6DDCF" stroke-width="2"/>
+  <ellipse cx="0" cy="54" rx="52" ry="46" fill="#FBF6EE" stroke="#E6DDCF" stroke-width="2"/>
+  <ellipse cx="-50" cy="44" rx="14" ry="20" fill="#FBF6EE" stroke="#E6DDCF" stroke-width="2" transform="rotate(20 -50 44)"/>
+  <ellipse cx="50" cy="44" rx="14" ry="20" fill="#FBF6EE" stroke="#E6DDCF" stroke-width="2" transform="rotate(-20 50 44)"/>
+  <ellipse cx="0" cy="62" rx="26" ry="22" fill="#FFFFFF" opacity=".7"/>
+  
+  <ellipse cx="-62" cy="-38" rx="22" ry="40" fill="#E9D9C3" transform="rotate(24 -62 -38)"/>
+  <ellipse cx="62" cy="-38" rx="22" ry="40" fill="#E9D9C3" transform="rotate(-24 62 -38)"/>
+  <circle cx="0" cy="-34" r="64" fill="#FBF6EE" stroke="#E6DDCF" stroke-width="2"/>
+  <ellipse cx="0" cy="-14" rx="26" ry="20" fill="#FFFFFF"/>
+  <circle cx="-24" cy="-40" r="6" fill="#1C2333"/>
+  <circle cx="24" cy="-40" r="6" fill="#1C2333"/>
+  <circle cx="-22" cy="-42" r="2" fill="#fff"/><circle cx="26" cy="-42" r="2" fill="#fff"/>
+  <ellipse cx="0" cy="-20" rx="8" ry="6" fill="#1C2333"/>
+  <path d="M-8 -8 q8 8 16 0" stroke="#1C2333" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <ellipse cx="-38" cy="-18" rx="9" ry="6" fill="#FFB8B8" opacity=".55"/><ellipse cx="38" cy="-18" rx="9" ry="6" fill="#FFB8B8" opacity=".55"/>
+</g></svg>
